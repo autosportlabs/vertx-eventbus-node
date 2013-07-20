@@ -1,6 +1,6 @@
 {
     "name": "node-vertxbus",
-    "version": "0.1.0",
+    "version": "0.1.1a",
     "author": "Surat Teerapittayanon",
     "contributors": [
         { "name" : "Brian Lalor", "email" : "brian@autosportlabs.com" }
