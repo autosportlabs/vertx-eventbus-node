@@ -1,15 +1,18 @@
 {
     "name": "node-vertxbus",
-    "author": "Surat Teerapittayanon",
     "version": "0.1.0",
+    "author": "Surat Teerapittayanon",
+    "contributors": [
+        { "name" : "Brian Lalor", "email" : "brian@autosportlabs.com" }
+    ],
     "keywords": ["websockets", "websocket", "sockjs"],
     "repository": {
         "type": "git",
-        "url": "git://github.com/steerapi/vertx-eventbus-node.git"
+        "url": "git://github.com/autosportlabs/vertx-eventbus-node.git"
     },
     "main": "index",
     "description": "VertXBus for node",
     "dependencies": {
-        "sockjs-client-ws": "*"
+        "sockjs-client-ws": "0.1.0"
     }
 }
